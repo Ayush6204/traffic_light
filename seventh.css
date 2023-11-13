@@ -1,0 +1,22 @@
+#two{
+    height:400px;
+    width:500px;
+    border:2px  dashed black ;
+    background-color: red;
+    margin-left:30%;
+    opacity:0.4;
+    transition:margin-top 2s ease-in-out o.5s;
+    transition-duration:0.5s;
+    transition-delay:0s;
+    background-image:url("yum.jpg");
+    background-image: contain;
+    transform:scale(1,1) rotate(20deg) skew(0deg) translate(0px)
+    
+}
+#two:hover{
+    background-color: yellow;
+    border-radius:40%;
+    margin-left:200px;
+  
+    box-shadow: 2px 2px 300px green;
+}

@@ -1,0 +1,26 @@
+#first{
+    height:800;
+    width:70px;
+    border:2px solid black;
+    background-color: brown;
+}
+.second{
+    height:50px;
+    width:50px;
+    border:2px solid black;
+    border-radius:50%;
+    margin:10px;
+    background-color: black;
+}
+#third{
+    background-color:red;
+
+}
+#fourth{
+    background-color:yellow;
+    
+}
+#fifth{
+    background-color:green;
+    
+}

@@ -1,0 +1,17 @@
+div p{
+    color:red;
+}
+input[type="text"]{
+    color:blueviolet;
+}
+button:hover{
+    background-color: black;
+    color:azure;
+    text-decoration: line-through;
+}
+button:active{
+    background-color:greenyellow;
+}
+input[type="radio"]:checked +label{
+    color:red;
+}

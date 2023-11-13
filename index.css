@@ -1,0 +1,16 @@
+h2{
+    line-height:normal;
+    letter-spacing:normal;
+    text-decoration:dotted red line-through ;
+    font-weight:550;
+    color:orange;
+}
+p{
+    text-align:right;
+    background:black;
+    color:white;
+}
+button{
+    background:blue;
+    color:white;
+}

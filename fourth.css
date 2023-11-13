@@ -1,0 +1,12 @@
+div{
+    height:20px;
+    width:50px;
+    margin:20px;
+    padding:20px;
+    border:5px solid black;
+    border-left:dashed;
+    border-radius:4px;
+    padding-top:2px;
+    margin:2px;
+
+}
